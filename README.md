@@ -33,7 +33,7 @@ Abbate, A., Davies, G., Lorito, S., Kalligeris, N., Romano, F., Tonini, R., Volp
 
 [Workshop link](https://www.geo-inquire.eu/dissemination/workshops/probabilistic-tsunami-risk-analysis)
 
-[This notebook](https://abbalice.github.io/GeoInquire_Workshops/hazard_curves.html) illustrates the computation and visualization of tsunami hazard curves at offshore and onshore locations, using the town of Marzamemi (Sicily, Italy) as a case study.
+[This notebook]([https://abbalice.github.io/GeoInquire_Workshops/hazard_curves.html](https://abbalice.github.io/GeoInquire_Workshops/Potsdam/hazard_curves.html)) illustrates the computation and visualization of tsunami hazard curves at offshore and onshore locations, using the town of Marzamemi (Sicily, Italy) as a case study.
 The ensemble of scenarios (3000 samples) were generated using the Importance Sampling method described in *Abbate et al. 2025* and implemented in the Jupyter Notebook developed for the Geo-INQUIRE workshop in Messina.
 
 High-resolution (5 m) inundation simulations were carried for all the 3000 scenarios using the [T-HySEA software](https://edanya.uma.es/hysea/) and were made available on Galileo 100 cluster from Cineca during the hands-on sessions.
